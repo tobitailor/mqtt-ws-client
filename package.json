@@ -1,0 +1,9 @@
+{
+  "name": "mqtt-ws-client",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "keywords": ["mqtt"],
+  "author": "Tobias Schneider <schneider@jancona.com>",
+  "license": "ISC"
+}
